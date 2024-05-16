@@ -1,0 +1,24 @@
+pip3 install pipenv
+   -virtual environment
+
++create a folder and inside
+
+pipenv install django
+   -install djano inside a virtual environment
+
+pipenv shell 
+   -activate the virtual environment
+
+django-admin
+   -django-admin is a utility
+
+django-admin startproject storefront .
+   -start a project
+
+python manage.py runserver
+   -run a project
+
+# For setup virtual terminal inside vs code
+pipenv --venv
+   output:/Users/prerana/.local/share/virtualenvs/prerana-9kHjXiR5
+
