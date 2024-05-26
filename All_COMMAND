@@ -20,5 +20,9 @@ python manage.py runserver
 
 # For setup virtual terminal inside vs code
 pipenv --venv
-   output:/Users/prerana/.local/share/virtualenvs/prerana-9kHjXiR5
+   output:/Users/prerana/.local/share/virtualenvs/storefront-QU7xvaaO
+
+# new app
+python manage.py startapp playground
+   -- apps need to be define to settings.py
 
