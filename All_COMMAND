@@ -26,3 +26,8 @@ pipenv --venv
 python manage.py startapp playground
    -- apps need to be define to settings.py
 
+
+#install python debugger 
+
+pipenv install django-debug-toolbar
+
